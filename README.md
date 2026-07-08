@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Fahad 👋
 
-<!--
-**Fahad-79/Fahad-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+🎓 Biomedical Engineering Student at Prince Sattam bin Abdulaziz University
 
-Here are some ideas to get you started:
+💡 Passionate about:
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🩺 Medical Devices
+- 🦾 Robotics
+- 🐍 Python Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Python
+- OpenCV
+- Machine Learning
+- Git & GitHub
+- Image Classification
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 Simple Robot Dog Mechanical Design
+Mechanical design of a quadruped robot including body structure, joints, motors, stability, and gait analysis.
+
+### 🧠 Teachable Machine Image Classification
+Image classification project using Google Teachable Machine and Python.
+
+---
+
+## 🎯 Goal
+
+Building intelligent healthcare solutions by combining Artificial Intelligence with Medical Devices.
+
+---
+
+⭐ Thanks for visiting my profile!
